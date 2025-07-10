@@ -16,7 +16,7 @@ This repository presents a solution for detecting and uniquely identifying playe
 ```
 
 ### Step 3: Run the Code
-Run the Colab notebook or `main.py` script to process the video. Output video will be saved inside the `videos/` folder.
+Run the Colab notebook or `main.py` script to process the video.
 
 ---
 
