@@ -12,7 +12,7 @@ This repository presents a solution for detecting and uniquely identifying playe
 ### Step 2: Install Dependencies (in Google Colab or local)
 ```python
 !pip install ultralytics opencv-python-headless gdown scikit-learn --quiet
-!apt-get -y install ffmpeg  # for video processing
+!apt-get -y install ffmpeg  
 ```
 
 ### Step 3: Run the Code
@@ -108,13 +108,13 @@ However, for transparency, here are the direct Google Drive links:
 
 ```
 ├── models/
-│   └── yolo11_players.pt         # Pretrained YOLOv11 model
+│   └── yolo11_players.pt        
 ├── videos/
-│   ├── input.mp4                 # Input video (auto-downloaded)
-│   ├── output.mp4                # Raw detection output
-│   └── output_fixed.mp4         # Final browser-compatible output
-├── main.ipynb or main.py        # Main executable script
-└── README.md                    # You're reading this!
+│   ├── input.mp4                
+│   ├── output.mp4                
+│   └── output_fixed.mp4         
+├── main.ipynb or main.py        
+└── README.md                    
 ```
 
 ---
