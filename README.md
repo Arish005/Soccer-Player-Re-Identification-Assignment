@@ -86,8 +86,10 @@ However, for transparency, here are the direct Google Drive links:
 | File                  	      | Google Drive Link                                                                    |
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | `15sec_input_720p.mp4` (Video)      | https://drive.google.com/file/d/1TDcND31fvEDvcnZCaianTxJrmT8q7iIi/view?usp=drive_link|
-| `yolo11_players.pt` (YOLOv11 Model) | https://drive.google.com/file/d/10U3DzW2EnnTdCuJ8R-QVn4szM6lX5ff5/view?usp=drive_link|
-| `tacticam.mp4`		      | https://drive.google.com/file/d/1bXQi4b_ScghZrg-SB5TEz-dyqsgsPoXo/view?usp=drive_link|
+| `yolo11_players.pt` (YOLOv11 Model) | https://drive.google.com/file/d/1TdeefIxQIPoiZeVV7VvFW7998_iFRyTl/view?usp=drive_link|
+| `tacticam.mp4`		      | https://drive.google.com/file/d/1lU4t6OdtVHGAda1oE9PNH_hcctBqLuDS/view?usp=drive_link|
+| `broadcast.mp4`		      | https://drive.google.com/file/d/1S9nRMF-rCc1EspNZ0qk8fTmWEZ9_uDs0/view?usp=drive_link|
+
  
 > These files are automatically downloaded in the code using `gdown`.  
 > No need for manual download unless running without internet.
