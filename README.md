@@ -109,17 +109,21 @@ However, for transparency, here are the direct Google Drive links:
 
 
 ```
-├── models/
-│ └── yolo11_players.pt # Pretrained YOLOv11 model
-├── videos/
-│ ├── broadcast.mp4 # Broadcast video input
-│ ├── tacticam.mp4 # Tacticam video input
-│ ├── output.mp4 # Output with raw bounding boxes
-│ └── output_fixed.mp4 # Final encoded video output
+├── Assignment Materials/
+│   ├── tacticam.mp4
+│   ├── broadcast.mp4
+│   └── 15sec_input_720p.mp4
+├── yolov11_players.pt            # Pretrained YOLOv11 model
 ├── Task_Option_1_Cross_Camera_Player_Mapping_.ipynb
 ├── Task_Option_2_Re_Identification_in_a_Single_Feed.ipynb
+├── Project Report.pdf
+└── Result
+    └── cross camera player mapping.mp4
+    └── broadcast player detection
+    └── tacticam detection
+    └── player_registry.npz
 └── README.md
-└── Project Report.pdf
+
 
               
 ```
