@@ -119,6 +119,7 @@ However, for transparency, here are the direct Google Drive links:
 ├── Task_Option_1_Cross_Camera_Player_Mapping_.ipynb
 ├── Task_Option_2_Re_Identification_in_a_Single_Feed.ipynb
 └── README.md
+└── Project Report.pdf
 
               
 ```
