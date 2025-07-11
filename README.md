@@ -69,9 +69,6 @@ Run the Colab notebook or `main.py` script to process the video.
 ## Output
 The processed video with bounding boxes and stable IDs is saved as:
 
-```
-videos/output_fixed.mp4
-```
 
 This file shows:
 - Players with consistent IDs (green boxes)
