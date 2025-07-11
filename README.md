@@ -110,13 +110,17 @@ However, for transparency, here are the direct Google Drive links:
 
 ```
 ├── models/
-│   └── yolo11_players.pt        
+│ └── yolo11_players.pt # Pretrained YOLOv11 model
 ├── videos/
-│   ├── input.mp4                
-│   ├── output.mp4                
-│   └── output_fixed.mp4         
-├── main.ipynb or main.py        
-└── README.md                    
+│ ├── broadcast.mp4 # Broadcast video input
+│ ├── tacticam.mp4 # Tacticam video input
+│ ├── output.mp4 # Output with raw bounding boxes
+│ └── output_fixed.mp4 # Final encoded video output
+├── Task_Option_1_Cross_Camera_Player_Mapping_.ipynb
+├── Task_Option_2_Re_Identification_in_a_Single_Feed.ipynb
+└── README.md
+
+              
 ```
 
 ---
