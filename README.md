@@ -110,7 +110,7 @@ However, for transparency, here are the direct Google Drive links:
 │   ├── tacticam.mp4
 │   ├── broadcast.mp4
 │   └── 15sec_input_720p.mp4
-├── yolov11_players.pt            # Pretrained YOLOv11 model
+├── yolov11_players.pt            
 ├── Task_Option_1_Cross_Camera_Player_Mapping_.ipynb
 ├── Task_Option_2_Re_Identification_in_a_Single_Feed.ipynb
 ├── Project Report.pdf
